@@ -1,0 +1,78 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "App1",
+      "image": "/img/portfolio/app-1.jpg",
+      "price": 30000,
+      "stock": 15,
+      "qty": 1
+    },
+    {
+      "id": "2",
+      "name": "Product1",
+      "image": "/img/portfolio/product-1.jpg",
+      "price": 20000,
+      "stock": 20,
+      "qty": 1
+    },
+    {
+      "id": "3",
+      "name": "Branding1",
+      "image": "/img/portfolio/branding-1.jpg",
+      "price": 15000,
+      "stock": 12,
+      "qty": 1
+    },
+    {
+      "id": "4",
+      "name": "Books1",
+      "image": "/img/portfolio/books-1.jpg",
+      "price": 800,
+      "stock": 25,
+      "qty": 1
+    },
+    {
+      "id": "5",
+      "name": "Books2",
+      "image": "/img/portfolio/books-2.jpg",
+      "price": 800,
+      "stock": 25,
+      "qty": 1
+    }
+  ],
+  "cart": [
+    {
+      "id": "2",
+      "name": "Product1",
+      "image": "/img/portfolio/product-1.jpg",
+      "price": 20000,
+      "stock": 20,
+      "qty": 1
+    },
+    {
+      "id": "1",
+      "name": "App1",
+      "image": "/img/portfolio/app-1.jpg",
+      "price": 30000,
+      "stock": 15,
+      "qty": 1
+    },
+    {
+      "id": "5",
+      "name": "Books2",
+      "image": "/img/portfolio/books-2.jpg",
+      "price": 800,
+      "stock": 25,
+      "qty": 1
+    },
+    {
+      "id": "2",
+      "name": "Product1",
+      "image": "/img/portfolio/product-1.jpg",
+      "price": 20000,
+      "stock": 20,
+      "qty": 1
+    }
+  ]
+}

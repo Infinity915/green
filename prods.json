@@ -1,0 +1,118 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "App 1",
+      "image": "./img/portfolio/app-1.jpg",
+      "price": 25000,
+      "stock": 10,
+      "qty": 1
+    },
+    {
+      "id": "2",
+      "name": "Product 1",
+      "image": "./img/portfolio/product-1.jpg",
+      "price": 2500,
+      "stock": 8,
+      "qty": 1
+    },
+    {
+      "id": "3",
+      "name": "Branding 1",
+      "image": "./img/portfolio/branding-1.jpg",
+      "price": 500,
+      "stock": 12,
+      "qty": 1
+    },
+    {
+      "id": "4",
+      "name": "Books 1",
+      "image": "./img/portfolio/books-1.jpg",
+      "price": 1200,
+      "stock": 7,
+      "qty": 1
+    },
+    {
+      "id": "5",
+      "name": "App 2",
+      "image": "./img/portfolio/app-2.jpg",
+      "price": 35000,
+      "stock": 6,
+      "qty": 1
+    },
+    {
+      "id": "6",
+      "name": "Product 2",
+      "image": "./img/portfolio/product-2.jpg",
+      "price": 38000,
+      "stock": 5,
+      "qty": 1
+    },
+    {
+      "id": "7",
+      "name": "Branding 2",
+      "image": "./img/portfolio/branding-2.jpg",
+      "price": 1500,
+      "stock": 9,
+      "qty": 1
+    },
+    {
+      "id": "8",
+      "name": "Books 2",
+      "image": "./img/portfolio/books-2.jpg",
+      "price": 700,
+      "stock": 7,
+      "qty": 1
+    },
+    {
+      "id": "9",
+      "name": "App 3",
+      "image": "./img/portfolio/app-3.jpg",
+      "price": 48000,
+      "stock": 2,
+      "qty": 1
+    },
+    {
+      "id": "10",
+      "name": "Product 3",
+      "image": "./img/portfolio/product-3.jpg",
+      "price": 2000,
+      "stock": 6,
+      "qty": 1
+    },
+    {
+      "id": "11",
+      "name": "Branding 3",
+      "image": "./img/portfolio/branding-3.jpg",
+      "price": 2500,
+      "stock": 10,
+      "qty": 1
+    },
+    {
+      "id": "12",
+      "name": "Books 3",
+      "image": "./img/portfolio/books-3.jpg",
+      "price": 600,
+      "stock": 8,
+      "qty": 1
+    }
+  ],
+  "cart": [
+    {
+      "id": "1",
+      "name": "App 1",
+      "image": "./img/portfolio/app-1.jpg",
+      "price": 25000,
+      "stock": 10,
+      "qty": 1
+    },
+    {
+      "id": "2",
+      "name": "Product 1",
+      "image": "./img/portfolio/product-1.jpg",
+      "price": 2500,
+      "stock": 8,
+      "qty": 1
+    }
+  ]
+}

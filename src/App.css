@@ -1,0 +1,36 @@
+a{
+  color: black!important;
+  font-size: 18px;
+  text-decoration: none!important;
+  padding-right: 20px;
+}
+a:active,a:hover
+{
+  color: green!important;
+}
+.div1
+{
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  /* background-color:lightgrey; */
+  margin: auto;
+}
+.carousel .carousel-item
+{
+  background-color: green !important;
+}
+.c .card:hover
+{
+  animation-name: move;
+  animation-duration: 1s;
+}
+@keyframes move
+{
+  from{transform: translateY(-10px);}
+  to{transform: translateY(0px);}
+}
+.f img
+{
+  filter: grayscale(100%);
+}
